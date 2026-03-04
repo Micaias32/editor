@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["client_gui","client_tui", "editor_core", "server"]
